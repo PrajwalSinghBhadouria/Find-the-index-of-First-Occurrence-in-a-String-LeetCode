@@ -1,0 +1,1 @@
+# Find-the-index-of-First-Occurrence-in-a-String-LeetCode
